@@ -15,7 +15,6 @@ dist/
 *.db
 
 # Ignore package lock files
-package-lock.json
 yarn.lock
 
 # Ignore IDE and editor specific files
